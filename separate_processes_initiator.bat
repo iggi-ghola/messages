@@ -1,0 +1,1 @@
+mvn compile  exec:java  -Dexec.mainClass="com.kozhekin.messages.NetLauncher" -Dexec.args="10002 10001 hi"
